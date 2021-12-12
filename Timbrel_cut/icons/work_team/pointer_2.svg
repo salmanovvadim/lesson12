@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 22" width="17" height="22">
+	<title>Layer 47</title>
+	<defs>
+		<image  width="17" height="22" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAWAgMAAABbBp/RAAAAAXNSR0IB2cksfwAAAAlQTFRF////AAAA////fu+PTwAAAAN0Uk5TAP//RFDWIQAAAEhJREFUeJxjYBBhAIFMXGQAmFzqACKXTQGTMxkYQjKXzXJgyMxaBSSzslatcmCQApNsEHIViGSEkSuBurKQSKlVS+CkaGgIAwDPRx+sZgg/2gAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Layer 47" href="#img1" x="0" y="0" />
+</svg>
